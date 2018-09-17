@@ -1,0 +1,22 @@
+{
+  "name": "dharma-sanitizer",
+  "version": "0.0.1",
+  "description": "Micro módulo para tratar textos para uso interno",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SubHeaven/dharma-sanitizer.git"
+  },
+  "author": "SubHeaven <paulo@projetodharma.com> (http://www.projetodharma.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SubHeaven/dharma-sanitizer/issues"
+  },
+  "homepage": "https://github.com/SubHeaven/dharma-sanitizer#readme",
+  "dependencies": {
+    "mocha": "^5.2.0"
+  }
+}
